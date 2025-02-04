@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/zTDjMZ3x/8ab0d9cb-fa6c-41bf-be16-6adc41c6f013.jpg"  />
+  <img height="400" src="https://i.ibb.co.com/zTDjMZ3x/8ab0d9cb-fa6c-41bf-be16-6adc41c6f013.jpg"  />
 </div>
 
 ###
@@ -10,6 +10,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sais-opu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sais-opu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sais-opu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
