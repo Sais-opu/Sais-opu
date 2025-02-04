@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://i.ibb.co.com/zTDjMZ3x/8ab0d9cb-fa6c-41bf-be16-6adc41c6f013.jpg"  />
+  <img height="400" src="https://i.ibb.co.com/zTDjMZ3x/8ab0d9cb-fa6c-41bf-be16-6adc41c6f013.jpg"  />
 </div>
 
 ###
@@ -87,11 +87,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sais-opu/Sais-opu/output/snake.svg" alt="Snake animation" />
 
 ###
