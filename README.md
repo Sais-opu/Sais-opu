@@ -55,6 +55,11 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+</div>
+
+###
 </div>
 
 ###
