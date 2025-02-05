@@ -9,22 +9,10 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=Sais-opu&theme=dark" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sais-opu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sais-opu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sais-opu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sais-opu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=Sais-opu&theme=dark" alt="GitHub Streak" />
-  </a>
-</div>
-
 
 ###
 
@@ -32,7 +20,7 @@
 
 ###
 
-<h4 align="left">Hi! I'm a Computer Science and Engineering student at BRAC University, passionate about full-stack web development. I specialize in creating interactive, responsive web applications and love working with both frontend and backend technologies.<br><br>🔥 What I Do<br>Currently, I'm working on:<br><br>Marathon Management System – A platform for managing events and registrations.<br>CrowdCube Website – A project to connect donors with those in need.<br>I'm continuously learning new technologies, focusing on backend development with Node.js and database management with MongoDB. I also enjoy building apps with React, Next.js, and Firebase.<br><br>🛠 Tech Stack<br>Frontend: HTML, CSS, JavaScript, React.js, Next.js<br>Backend: Node.js, Firebase, MongoDB<br>Styling: Tailwind CSS, DaisyUI<br>⚡ Fun Fact<br>Even if a movie has bad reviews, I’ll still watch it to see how bad it really is! 🎬</h4>
+<h5 align="left">Hi! I'm a Computer Science and Engineering student at BRAC University, passionate about full-stack web development. I specialize in creating interactive, responsive web applications and love working with both frontend and backend technologies.<br><br>🔥 What I Do<br>Currently, I'm working on:<br><br>Marathon Management System – A platform for managing events and registrations.<br>Winter Clothing Donation Website – A project to connect donors with those in need.<br>I'm continuously learning new technologies, focusing on backend development with Node.js and database management with MongoDB. I also enjoy building apps with React, Next.js, and Firebase.<br><br>🛠 Tech Stack<br>Frontend: HTML, CSS, JavaScript, React.js, Next.js<br>Backend: Node.js, Firebase, MongoDB<br>Styling: Tailwind CSS, DaisyUI<br>⚡ Fun Fact<br>Even if a movie has bad reviews, I’ll still watch it to see how bad it really is! 🎬</h5>
 
 ###
 
