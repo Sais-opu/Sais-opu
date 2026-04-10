@@ -30,10 +30,10 @@
 </p>
 
 <!-- SNAKE SECTION -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<!-- <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sais-opu/Sais-opu/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+</p> -->
 
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=Sais-opu&theme=highcontrast" height="150" alt="GitHub Streak" />
