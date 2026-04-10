@@ -1,47 +1,43 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/gZgQRj40/bbbb-1.jpg"  />
-</div>
+  <!-- HEADER IMAGE -->
+  <img height="400" src="https://i.ibb.co.com/gZgQRj40/bbbb-1.jpg" />
 
-###
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+MD+SAIDUL+ISLAM+APU;Full+Stack+MERN+Developer;Cybersecurity+Enthusiast;Building+AI+Web+Apps" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sais-opu&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Sais-opu?label=Followers&style=for-the-badge&color=8A2BE2" />
-</p>
-
-###
-
-<h2 align="center">Hi 👋! My name is MD SAIDUL ISLAM APU, a Full-Stack Developer.</h2>
-
-<div align="center">
-  <!-- GITHUB STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sais-opu&show_icons=true&count_private=true&theme=highcontrast&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sais-opu&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph" />
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sais-opu&theme=tokyonight&hide_border=false" width="100%"/>
+  <!-- TYPING EFFECT -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+MD+SAIDUL+ISLAM+APU;Full+Stack+MERN+Developer;Cybersecurity+Enthusiast;Building+AI+Web+Apps" />
   </p>
-</div>
 
-# 📈 ACTIVITY GRAPH
+  <!-- BADGES -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Sais-opu&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/Sais-opu?label=Followers&style=for-the-badge&color=8A2BE2" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sais-opu&theme=react-dark&area=true" width="100%" />
-</p>
+  <h2 align="center">Hi 👋! My name is MD SAIDUL ISLAM APU</h2>
 
-<!-- SNAKE SECTION -->
-<h2 align="center">🐍 Contribution Snake</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sais-opu/Sais-opu/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+  <!-- GITHUB STATS & LANGUAGES -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sais-opu&show_icons=true&count_private=true&theme=tokyonight" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sais-opu&layout=compact&langs_count=5&theme=tokyonight" height="150" alt="languages graph" />
+  </p>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=Sais-opu&theme=highcontrast" height="150" alt="GitHub Streak" />
-  </a>
+  <!-- STREAK STATS (Using the stable demolab server) -->
+  <p>
+    <img src="https://streak-stats.demolab.com/?user=Sais-opu&theme=tokyonight" width="100%" alt="streak stats" />
+  </p>
+
+  <!-- ACTIVITY GRAPH -->
+  <h2>📈 Activity Graph</h2>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sais-opu&theme=react-dark&area=true" width="100%" />
+  </p>
+
+  <!-- SNAKE ANIMATION (Working) -->
+  <h2>🐍 My Contribution Snake</h2>
+  <p>
+    <img src="https://raw.githubusercontent.com/Sais-opu/Sais-opu/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  </p>
+
 </div>
 
 ###
