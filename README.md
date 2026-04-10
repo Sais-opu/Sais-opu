@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://i.ibb.co.com/gZgQRj40/bbbb-1.jpg"  />
+  <img height="400" src="https://i.ibb.co.com/gZgQRj40/bbbb-1.jpg"  />
 </div>
 
 ###
@@ -17,11 +17,14 @@
 <h2 align="center">Hi 👋! My name is MD SAIDUL ISLAM APU, a Full-Stack Developer.</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sais-opu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <!-- GITHUB STATS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sais-opu&show_icons=true&count_private=true&theme=highcontrast&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sais-opu&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sais-opu&theme=tokyonight&hide_border=false" width="100%"/>
-</p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sais-opu&theme=tokyonight&hide_border=false" width="100%"/>
+  </p>
+</div>
 
 # 📈 ACTIVITY GRAPH
 
@@ -30,15 +33,15 @@
 </p>
 
 <!-- SNAKE SECTION -->
-<!-- <h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sais-opu/Sais-opu/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p> -->
+</p>
 
+<div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=Sais-opu&theme=highcontrast" height="150" alt="GitHub Streak" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sais-opu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -52,54 +55,20 @@
 
 <h2 align="center">I code with</h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,py,nodejs,tailwind,express,mongodb,firebase,nextjs,vite" />
 </div>
 
 <h2 align="center">Use tools like</h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda,git,github,bash" />
 </div>
 
 <h2 align="center">Connect with me</h2>
 <div align="center">
   <a href="https://www.facebook.com/sais.opu.2024" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=flat" height="35" alt="facebook logo"  />
   </a>
   <a href="https://www.linkedin.com/in/md-saidul-islam-apu-5b6306228/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="35" alt="linkedin logo"  />
   </a>
 </div>
