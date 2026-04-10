@@ -17,10 +17,7 @@
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sais-opu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph" />
 </div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sais-opu&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Sais-opu?label=Followers&style=for-the-badge&color=8A2BE2" />
-</p>
+
 
 
 ###
